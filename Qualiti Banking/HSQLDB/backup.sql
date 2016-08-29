@@ -205,10 +205,10 @@ INSERT INTO tb_cliente (cpf, nome) VALUES ('66666666666', 'Oniqua Carbenha');
 INSERT INTO tb_cliente (cpf, nome) VALUES ('77777777777', 'Pablo Carlo');
 INSERT INTO tb_cliente (cpf, nome) VALUES ('88888888888', 'Tayrone Bascles');
 INSERT INTO tb_cliente (cpf, nome) VALUES ('99999999999', 'Coniglio Cenoura');
-INSERT INTO tb_cliente (cpf, nome) VALUES ('69325878173', 'OROMAR');
-INSERT INTO tb_cliente (cpf, nome) VALUES ('12345678909', 'TESTE INCLUSÃO OROMAR DANTAS');
+INSERT INTO tb_cliente (cpf, nome) VALUES ('69325878173', 'ERIC');
+INSERT INTO tb_cliente (cpf, nome) VALUES ('12345678909', 'TESTE INCLUSÃO ERIC');
 INSERT INTO tb_cliente (cpf, nome) VALUES ('09836478299', 'TESTE DE NOVO');
-INSERT INTO tb_cliente (cpf, nome) VALUES ('04848717493', 'OROMAR LAMOUNIER DANTAS MELO');
+INSERT INTO tb_cliente (cpf, nome) VALUES ('04848717493', 'ERIC FERNANDO GOMES DA SILVA');
 
 
 --
